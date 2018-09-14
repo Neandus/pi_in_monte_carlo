@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MonteCarlo_MVVM/bin/
+/MonteCarlo_MVVM/obj/
